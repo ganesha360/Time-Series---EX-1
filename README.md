@@ -1,6 +1,7 @@
 # Ex.No: 01 PLOT A TIME SERIES DATA
 ###  Date: 22/08/2024
-
+###  Name: Ganesh R
+###  Reg No: 212222240029
 # AIM:
 To Develop a python program to Plot a time series data (Electric_Production).
 # ALGORITHM:

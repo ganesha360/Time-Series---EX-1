@@ -32,7 +32,7 @@ data.set_index('Date', inplace=True)
 # Plot the time series data for 'Open' stock prices
 plt.figure(figsize=(10, 6))
 plt.plot(data.index, data['Open'], label='Open Price')
-plt.title('Netflix stock price(Open)')
+plt.title('Amazon stock price(Open)')
 plt.xlabel('Date')
 plt.ylabel('Price')
 plt.grid(True)
@@ -41,7 +41,8 @@ plt.show()
 ```
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/f5c5dd0d-d6d3-45f4-b4eb-36f4163203bd)
+![image](https://github.com/user-attachments/assets/4dbb4732-779e-4035-bee4-4a6b56ec9ef7)
+
 
 # RESULT:
 Thus we have created the python code for plotting the time series of Amazon stock data.

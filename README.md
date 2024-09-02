@@ -4,7 +4,7 @@
 
 # Ex.No: 01 PLOT A TIME SERIES DATA
 # AIM:
-To Develop a python program to Plot a time series data (Electric_Production).
+To Develop a python program to Plot a time series data of Amazon stock price.
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
@@ -44,4 +44,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/f5c5dd0d-d6d3-45f4-b4eb-36f4163203bd)
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus we have created the python code for plotting the time series of Amazon stock data.
